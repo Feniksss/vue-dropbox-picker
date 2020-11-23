@@ -1,5 +1,5 @@
 {
-  "name": "vue-dropbox-picker",
+  "name": "vue-dropbox-picker-custom",
   "main": "dist/VueDropboxPicker.umd.min.js",
   "types": "src/vue-dropbox-picker.d.ts",
   "version": "0.1.1",
