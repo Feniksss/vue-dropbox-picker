@@ -1,7 +1,7 @@
-# vue-dropbox-picker
+# vue-dropbox-picker-custom
 
 ## Installation
-`yarn add vue-dropbox-picker` or `npm install vue-dropbox-picker --save`
+`yarn add vue-dropbox-picker-custom` or `npm install vue-dropbox-picker-custom --save`
 
 ##Usage
 ```
