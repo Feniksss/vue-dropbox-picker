@@ -6,7 +6,7 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/xoxmaman/vue-dropbox-picker.git"
+    "url": "https://github.com/Feniksss/vue-dropbox-picker.git"
   },
   "keywords": [
     "vue",
@@ -18,9 +18,9 @@
   "author": "Kobyzskoi Dmytryi <xoxmaman@gmail.com> (https://github.com/xoxmaman)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xoxmaman/vue-dropbox-picker/issues"
+    "url": "https://github.com/Feniksss/vue-dropbox-picker/issues"
   },
-  "homepage": "https://github.com/xoxmaman/vue-dropbox-picker",
+  "homepage": "https://github.com/Feniksss/vue-dropbox-picker",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
