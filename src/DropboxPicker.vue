@@ -6,7 +6,7 @@
 </template>
 
 <script lang="ts">
-import { Component, Vue, Prop } from 'vue-property-decorator'
+import { Component, Prop } from 'vue-property-decorator'
 import { Chooser, ChooserFile, ChooserOptions } from './dropbox'
 
 declare global {
@@ -14,7 +14,7 @@ declare global {
 }
 
 @Component({})
-export default class DropboxPicker extends Vue {
+export default class DropboxPicker {
   @Prop({
     required: true,
   })
